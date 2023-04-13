@@ -1,0 +1,14 @@
+
+# The .Renviron file sets environment variables which can be used in an R session
+# It is good for setting options, user/computer-specific paths, and secrets like API keys
+
+# R Startup References:
+# https://stat.ethz.ch/R-manual/R-devel/library/base/html/Startup.html
+# https://cran.r-project.org/bin/windows/base/rw-FAQ.html
+# https://rstats.wtf/r-startup.html
+# See: https://csgillespie.github.io/efficientR/r-startup.html#renviron
+
+# You can create or edit either a user-specific or project-specific .Renviron file and add the following line, substituting your own EIA api key. I generally prefer a user-level .Renviron file. If both exist, R will only pay attention to the project-level one. You can create or edit your user-level .Renviron file by running: usethis::edit_r_environ("user") or with command save-as this file into ".Renviron".
+
+# fill in your own EIA api key below, get one here: https://www.eia.gov/opendata/
+EIA_KEY=1234567890abcdef1234567890abcdef

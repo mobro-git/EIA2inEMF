@@ -1,0 +1,8 @@
+^renv$
+^renv\.lock$
+^data-raw$
+^scripts$
+^template$
+^copied$
+^.*\.Rproj$
+^\.Rproj\.user$

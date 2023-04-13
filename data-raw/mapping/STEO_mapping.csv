@@ -1,0 +1,38 @@
+﻿Variable,Series_Name,Series_ID,Factor,notes,notes_variable
+Emissions|CO2|Energy,"Total Energy CO2 Emissions, Annual",STEO.TETCCO2.A,1,,
+Emissions|CO2|Energy|Coal,"Carbon Dioxide Emissions from Coal, Annual",STEO.CXTCCO2.A,1,,
+Emissions|CO2|Energy|Gas,"Carbon Dioxide Emissions from Natural Gas, Annual",STEO.NGTCCO2.A,1,,
+Emissions|CO2|Energy|Oil,"Carbon Dioxide Emissions from Petroleum and Other Liquid Fuels, Annual",STEO.PATCCO2.A,1,,
+Final Energy|Electricity,"Total Consumption of Electricity in United States, Annual",STEO.ELCOTWH.A,1,,
+GDP|Consumption,"Real Personal Consumption Expenditures, Annual",STEO.CONSRUS.A,1,,
+GDP|Exports,"Real Exports of Goods and Services, Annual",STEO.TREXRUS.A,1,,
+GDP|Government,"Real U.S. Government Expenditures, Annual",STEO.GOVXRUS.A,1,,
+GDP|Imports,"Real Imports of Goods and Services, Annual",STEO.TRIMRUS.A,1,,
+GDP|Investment,"Real Private Fixed Investment, Annual",STEO.I87RXUS.A,1,,
+GDP|MER,"Real Gross Domestic Product, Annual",STEO.GDPQXUS,1,,
+Price|Final Energy|Electricity,"Retail Price of Electricity for All Sectors, U.S. Total, Annual",STEO.ESTCU_US.A,1,,
+Price|Primary Energy|Coal,"Cost of Coal Delivered to Electric Generating Plants, Annual",STEO.CLEUDUS.A,1,,
+Price|Primary Energy|Gas,"Cost of Natural Gas Delivered to Electric Generating Plants, Annual",STEO.NGEUDUS.A,1,,
+Price|Primary Energy|Oil,"Cost of Distillate Fuel Oil Delivered to Electric Generating Plants, Annual",STEO.DKEUDUS.A,1,,
+Primary Energy,"U.S. Total Energy Consumption, Annual",STEO.TETCFUEL.A,1,,
+Primary Energy|Coal,"Total Coal Consumption , Annual",STEO.CLTCPUS_TON.A,1,,
+,"Electric power sector consumption of coal, United States, Annual",STEO.CLEPCNS_US.A,1,not in template anymore,Primary Energy|Coal|Electricity
+Primary Energy|Gas,"US Natural Gas Consumption, Annual",STEO.NGTCPUS.A,365,,
+,"Electric power sector consumption of natural gas, United States, Annual",STEO.NGEPCNS_US.A,1,not in template anymore,Primary Energy|Gas|Electricity
+Primary Energy|Geothermal,"Consumption of Geothermal Energy by All Sectors, Annual",STEO.GETCBUS.A,1,,
+Primary Energy|Hydro,"Consumption of Conventional Hydroelectric Power Energy by All Sectors, Annual",STEO.HVTCBUS.A,1,,
+Primary Energy|Oil,"Total Petroleum and Other Liquids Product Supplied, Annual",STEO.PATCPUSX.A,365,,
+,"Electric power sector consumption of petroleum, United States, Annual",STEO.PAEPCNS_US.A,1,not in template anymore,Primary Energy|Oil|Electricity
+Secondary Energy|Electricity,"Total net generation by all energy sources, all sectors, United States, Annual",STEO.TOTOGEN_US.A,1,,
+Secondary Energy|Electricity|Biomass,"Net generation from biomass, all sectors, United States, Annual",STEO.BMTOGEN_US.A,1,,
+Secondary Energy|Electricity|Coal,"Net generation from coal, all sectors, United States, Annual",STEO.CLTOGEN_US.A,1,,
+Secondary Energy|Electricity|Gas,"Net generation from natural gas, all sectors, United States, Annual",STEO.NGTOGEN_US.A,1,,
+Secondary Energy|Electricity|Geothermal,"Net generation from geothermal, all sectors, United States, Annual",STEO.GETOGEN_US.A,1,,
+Secondary Energy|Electricity|Hydro,"Net generation from conventional hydropower, all sectors, United States, Annual",STEO.HVTOGEN_US.A,1,,
+,"Net International Imports of Electricity into United States, Annual",STEO.ELNITWH.A,1,not in template anymore,Secondary Energy|Electricity|Imports
+Secondary Energy|Electricity|Nuclear,"Net generation from nuclear, all sectors, United States, Annual",STEO.NUTOGEN_US.A,1,,
+Secondary Energy|Electricity|Oil,"Net generation from petroleum, all sectors, United States, Annual",STEO.PATOGEN_US.A,1,,
+Secondary Energy|Electricity|Solar,"Net generation from utility-scale solar, all sectors, United States, Annual",STEO.SOTOGEN_US.A,1,,
+Secondary Energy|Electricity|Wind,"Net generation from wind, all sectors, United States, Annual",STEO.WNTOGEN_US.A,1,,
+,"Carbon Dioxide Emissions from Fossil Fuels, Annual",STEO.FFTCCO2.A,1,going with STEO.TETCCO2.A,Emissions|CO2|Energy
+,"Net generation from other nonrenewable fuels, all sectors, United States, Annual",STEO.OBTOGEN_US.A,1,not in EMF37 template,

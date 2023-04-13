@@ -1,0 +1,29 @@
+from_unit,from_units_unit,to_units_unit,to_unit
+2019 $/b,US_2019_Dollar/barrelnew,US_2018_Dollar/GJ,US$2018/GJ
+2019 $/MMBtu,US_2019_Dollar/MMBtu,US_2018_Dollar/GJ,US$2018/GJ
+2020 $/b,US_2020_Dollar/barrelnew,US_2018_Dollar/GJ,US$2018/GJ
+2020 $/MMBtu,US_2020_Dollar/MMBtu,US_2018_Dollar/GJ,US$2018/GJ
+2021 $/b,US_2021_Dollar/barrelnew,US_2018_Dollar/GJ,US$2018/GJ
+2021 $/MMBtu,US_2021_Dollar/MMBtu,US_2018_Dollar/GJ,US$2018/GJ
+billion 2012  $,billion US_2012_Dollar,billion US_2018_Dollar,billion US$2018/yr
+billion 2012 $,billion US_2012_Dollar,billion US_2018_Dollar,billion US$2018/yr
+Billion Btu,Billion Btu,EJ,EJ/yr
+billion chained 2012 dollars (seasonally-adjusted annual rate),billion US_2012_Dollar,billion US_2018_Dollar,billion US$2018/yr
+billion cubic_feet,billion cubic_feet,EJ,EJ/yr
+billion kilowatthours,billion kilowatthours,EJ,EJ/yr
+BkWh,billion kwh,EJ,EJ/yr
+cents per kilowatt hour,cent / kWh,US_2018_Dollar/GJ,US$2018/GJ
+dollars per million Btu,dollar / MMBtu,US_2018_Dollar/GJ,US$2018/GJ
+GW,GW,GW,GW
+million barrelnew,million barrelnew,EJ,EJ/yr
+million kilowatts,million kilowatts,GW,GW
+million metric tons CO2,Million_ton_CO2_yr,Million_ton_CO2_yr,Mt CO2/yr
+Million Metric Tons of Carbon Dioxide,Million_ton_CO2_yr,Million_ton_CO2_yr,Mt CO2/yr
+million short_tons_coal,million short_tons_coal,EJ,EJ/yr
+MMmt CO2,Million_ton_CO2_yr,Million_ton_CO2_yr,Mt CO2/yr
+quadrillion Btu,quadrillion Btu,EJ,EJ/yr
+Quadrillion Btu,Quadrillion Btu,EJ,EJ/yr
+quads,quadrillion btu,EJ,EJ/yr
+thousand megawatthours,thousand megawatthours,EJ,EJ/yr
+trillion Btu,trillion Btu,EJ,EJ/yr
+Trillion Btu,Trillion Btu,EJ,EJ/yr

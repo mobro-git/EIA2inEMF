@@ -1,0 +1,644 @@
+model	scenario	region	variable	unit	2020	2030	2040
+AEO.2020	REF2020	USA	Capacity|Electricity	GW	1099.85	1277.16	1442.76
+AEO.2020	REF2020	USA	Capacity|Electricity|Biomass	GW	3.17	3.18	3.18
+AEO.2020	REF2020	USA	Capacity|Electricity|Coal	GW	226.11	132.19	126.62
+AEO.2020	REF2020	USA	Capacity|Electricity|Geothermal	GW	2.46	3.68	5.76
+AEO.2020	REF2020	USA	Capacity|Electricity|Hydro	GW	79.27	79.29	79.29
+AEO.2020	REF2020	USA	Capacity|Electricity|Nuclear	GW	97.09	83.31	78.86
+AEO.2020	REF2020	USA	Capacity|Electricity|Solar	GW	84.89	232.83	309.28
+AEO.2020	REF2020	USA	Capacity|Electricity|Solar|CSP	GW	1.76	1.96	2.05
+AEO.2020	REF2020	USA	Capacity|Electricity|Solar|PV	GW	47.55	157.86	202.78
+AEO.2020	REF2020	USA	Capacity|Electricity|Storage Capacity|PSH	GW	22.83	22.83	22.83
+AEO.2020	REF2020	USA	Capacity|Electricity|Wind	GW	122.03	173.69	187.46
+AEO.2020	REF2020	USA	Capacity|Electricity|Wind|Offshore	GW	0.03	9.96	18.16
+AEO.2020	REF2020	USA	Capacity|Electricity|Wind|Onshore	GW	122	163.73	169.3
+AEO.2020	REF2020	USA	Emissions|CO2|Energy	Mt CO2/yr	4992.91	4673.91	4715.01
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Coal	Mt CO2/yr	980.58	806.86	763.94
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings	Mt CO2/yr	582.7	562.94	558.01
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial	Mt CO2/yr	251.68	255.77	262.02
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial|Indirect	Mt CO2/yr	540.02	449.66	456.35
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings|Indirect	Mt CO2/yr	1109.27	910.49	928.57
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings|Residential	Mt CO2/yr	331.02	307.17	295.99
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Buildings|Residential|Indirect	Mt CO2/yr	569.25	460.83	472.22
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry	Mt CO2/yr	1032.81	1146.43	1219.63
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Aluminum	Mt CO2/yr	18.85	16.39	16.62
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Bulk chemicals	Mt CO2/yr	278.17	345.9	385.87
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Cement and lime	Mt CO2/yr	23.97	23.28	20.42
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Food products	Mt CO2/yr	76.39	75.75	79.42
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Glass	Mt CO2/yr	14.32	14.22	14.61
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Iron and steel	Mt CO2/yr	110.58	93.01	89.01
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Paper	Mt CO2/yr	46.82	41.3	36.55
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|Indirect	Mt CO2/yr	400.62	361.69	361.62
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Agriculture	Mt CO2/yr	84.91	91.27	98.6
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Construction	Mt CO2/yr	74.57	86.63	93.97
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Other mining	Mt CO2/yr	86.82	83.54	81.28
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Transportation	Mt CO2/yr	1862.03	1679.96	1624.03
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Demand|Transportation|Indirect	Mt CO2/yr	5.48	12.38	23.15
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Gas	Mt CO2/yr	1683.15	1704.33	1840.74
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Oil	Mt CO2/yr	2318.06	2151.35	2098.54
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Supply|Electricity	Mt CO2/yr	1515.37	1284.57	1313.34
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Supply|Electricity|Coal	Mt CO2/yr	875.23	707.03	667.77
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Supply|Electricity|Gas	Mt CO2/yr	615.96	559.12	627.83
+AEO.2020	REF2020	USA	Emissions|CO2|Energy|Supply|Electricity|Oil	Mt CO2/yr	13.08	7.06	5.95
+AEO.2020	REF2020	USA	Final Energy	EJ/yr	79.71	81.07	83.66
+AEO.2020	REF2020	USA	Final Energy|Buildings	EJ/yr	40.57	39.04	40.2
+AEO.2020	REF2020	USA	Final Energy|Buildings|Commercial	EJ/yr	19.02	18.75	19.46
+AEO.2020	REF2020	USA	Final Energy|Buildings|Commercial|Electricity	EJ/yr	4.91	5.2	5.58
+AEO.2020	REF2020	USA	Final Energy|Buildings|Residential	EJ/yr	21.55	20.29	20.74
+AEO.2020	REF2020	USA	Final Energy|Buildings|Residential|Electricity	EJ/yr	5.09	5.25	5.68
+AEO.2020	REF2020	USA	Final Energy|Electricity	EJ/yr	13.42	14.43	15.61
+AEO.2020	REF2020	USA	Final Energy|Industry	EJ/yr	34.48	38.26	40.82
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Aluminum|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Aluminum|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Aluminum|Electricity	EJ/yr	0.1	0.11	0.12
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Aluminum|Gas	EJ/yr	0.12	0.11	0.12
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Aluminum|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Biomass Solids	EJ/yr	0.07	0.07	0.08
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Coal	EJ/yr	0.15	0.15	0.11
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Electricity	EJ/yr	0.04	0.04	0.04
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Gas	EJ/yr	0.02	0.02	0.04
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Oil	EJ/yr	0.05	0.05	0.06
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Food products|Biomass Solids	EJ/yr	0.16	0.23	0.28
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Food products|Coal	EJ/yr	0.1	0.13	0.13
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Food products|Electricity	EJ/yr	0.25	0.3	0.33
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Food products|Gas	EJ/yr	0.72	0.69	0.73
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Food products|Oil	EJ/yr	0.03	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Glass|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Glass|Electricity	EJ/yr	0.02	0.03	0.03
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Glass|Gas	EJ/yr	0.23	0.23	0.24
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Glass|Oil	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Coal	EJ/yr	0.08	0.08	0.07
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Electricity	EJ/yr	0.21	0.22	0.22
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Gas	EJ/yr	0.48	0.44	0.39
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Oil	EJ/yr	0.01	0.03	0.03
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Paper|Biomass Solids	EJ/yr	0.9	1.04	1.1
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Paper|Coal	EJ/yr	0.04	0.04	0.03
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Paper|Electricity	EJ/yr	0.21	0.22	0.19
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Paper|Gas	EJ/yr	0.36	0.34	0.33
+AEO.2020	REF2020	USA	Final Energy|Industry|EInt Mfg|Paper|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|Electricity	EJ/yr	3.36	3.82	4.04
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Agriculture|Biomass Solids	EJ/yr	0.14	0.16	0.17
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Agriculture|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Agriculture|Electricity	EJ/yr	0.27	0.32	0.35
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Agriculture|Gas	EJ/yr	0.21	0.2	0.22
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Agriculture|Oil	EJ/yr	0.66	0.78	0.87
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Construction|Electricity	EJ/yr	0.17	0.21	0.23
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Construction|Gas	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Construction|Oil	EJ/yr	0.8	0.99	1.08
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Other mining|Biomass Solids	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Other mining|Coal	EJ/yr	0.08	0.1	0.1
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Other mining|Electricity	EJ/yr	0.32	0.35	0.35
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Other mining|Gas	EJ/yr	2.63	3.05	3.17
+AEO.2020	REF2020	USA	Final Energy|Industry|Non Mfg|Other mining|Oil	EJ/yr	0.24	0.28	0.27
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Biomass Solids	EJ/yr	0.03	0.04	0.05
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Coal	EJ/yr	0.05	0.06	0.07
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Gas	EJ/yr	0.85	1.01	1.13
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Oil	EJ/yr	0.09	0.07	0.06
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Gas	EJ/yr	0.04	0.04	0.04
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Gas	EJ/yr	0.06	0.06	0.07
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Oil	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Gas	EJ/yr	0.24	0.21	0.23
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Gas	EJ/yr	0.09	0.08	0.09
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Gas	EJ/yr	0.19	0.19	0.23
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Biomass Solids	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Gas	EJ/yr	0.12	0.12	0.14
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Biomass Solids	EJ/yr	0.32	0.42	0.43
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Coal	EJ/yr	0	0	0
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Gas	EJ/yr	0.07	0.07	0.07
+AEO.2020	REF2020	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Oil	EJ/yr	0.02	0.02	0.02
+AEO.2020	REF2020	USA	Final Energy|Transportation	EJ/yr	29.79	27.33	26.89
+AEO.2020	REF2020	USA	Final Energy|Transportation|Electricity	EJ/yr	0.06	0.16	0.31
+AEO.2020	REF2020	USA	GDP|Consumption	billion US$2018/yr	14174.02	17516.92	21303.47
+AEO.2020	REF2020	USA	GDP|Exports	billion US$2018/yr	2852.13	4119.14	5494.55
+AEO.2020	REF2020	USA	GDP|Government	billion US$2018/yr	3428.74	3544.45	3766.51
+AEO.2020	REF2020	USA	GDP|Imports	billion US$2018/yr	3926.52	5428.75	6874.37
+AEO.2020	REF2020	USA	GDP|Investment	billion US$2018/yr	3030.06	3956.71	4987.83
+AEO.2020	REF2020	USA	GDP|MER	billion US$2018/yr	20310.29	24544.04	29435.51
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Aluminum|Value	billion US$2018/yr	44.37	46.87	51.87
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Bulk chemicals|Value	billion US$2018/yr	468.61	585.04	665.27
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Cement and lime|Value	billion US$2018/yr	14.97	17.53	19.99
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Food products|Value	billion US$2018/yr	976.34	1166.91	1377.72
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Glass|Value	billion US$2018/yr	26.24	30.29	33.97
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Iron and steel|Value	billion US$2018/yr	140.88	130.12	132.55
+AEO.2020	REF2020	USA	Output|Industry|EInt Mfg|Paper|Value	billion US$2018/yr	178.11	183.07	192.05
+AEO.2020	REF2020	USA	Output|Industry|Non Mfg|Agriculture|Value	billion US$2018/yr	547.93	637.63	731.06
+AEO.2020	REF2020	USA	Output|Industry|Non Mfg|Construction|Value	billion US$2018/yr	1424.62	1718	1976.35
+AEO.2020	REF2020	USA	Output|Industry|Non Mfg|Other mining|Value	billion US$2018/yr	806.93	901.69	925.79
+AEO.2020	REF2020	USA	Output|Industry|NonEInt Mfg|Metal durables|Appliances|Value	billion US$2018/yr	135.76	159.83	196.43
+AEO.2020	REF2020	USA	Output|Industry|NonEInt Mfg|Metal durables|Machinery|Value	billion US$2018/yr	403.35	467.86	548.82
+AEO.2020	REF2020	USA	Output|Industry|NonEInt Mfg|Metal durables|Transport equip|Value	billion US$2018/yr	1025.11	1212.38	1603
+AEO.2020	REF2020	USA	Price|Final Energy|Commercial|Electricity	US$2018/GJ	28.56	28.76	27.63
+AEO.2020	REF2020	USA	Price|Final Energy|Commercial|Gas	US$2018/GJ	6.76	7.8	8.05
+AEO.2020	REF2020	USA	Price|Final Energy|Commercial|Oil	US$2018/GJ	20.2	19.11	21.13
+AEO.2020	REF2020	USA	Price|Final Energy|Electricity	US$2018/GJ	28.28	28.72	28.06
+AEO.2020	REF2020	USA	Price|Final Energy|Gas	US$2018/GJ	4.5	5.37	5.46
+AEO.2020	REF2020	USA	Price|Final Energy|Industrial|Electricity	US$2018/GJ	18.67	18.2	17.68
+AEO.2020	REF2020	USA	Price|Final Energy|Industrial|Gas	US$2018/GJ	3.25	3.93	4.06
+AEO.2020	REF2020	USA	Price|Final Energy|Industrial|Oil	US$2018/GJ	20.13	18.88	20.9
+AEO.2020	REF2020	USA	Price|Final Energy|Oil	US$2018/GJ	20.73	22.13	24.52
+AEO.2020	REF2020	USA	Price|Final Energy|Residential|Electricity	US$2018/GJ	34.33	36.17	35.56
+AEO.2020	REF2020	USA	Price|Final Energy|Residential|Gas	US$2018/GJ	9.46	10.37	10.84
+AEO.2020	REF2020	USA	Price|Final Energy|Residential|Oil	US$2018/GJ	19.94	26.49	29.81
+AEO.2020	REF2020	USA	Price|Final Energy|Transportation|Electricity	US$2018/GJ	32.04	34.68	33.65
+AEO.2020	REF2020	USA	Price|Final Energy|Transportation|Gas	US$2018/GJ	12.55	11.43	10.6
+AEO.2020	REF2020	USA	Price|Final Energy|Transportation|Oil|Diesel	US$2018/GJ	20.17	22.65	24.67
+AEO.2020	REF2020	USA	Price|Final Energy|Transportation|Oil|Gasoline	US$2018/GJ	20.74	22.12	24.5
+AEO.2020	REF2020	USA	Price|Final Energy|Transportation|Oil|Jet Fuel	US$2018/GJ	13.65	15.75	18.14
+AEO.2020	REF2020	USA	Price|Primary Energy|Coal	US$2018/GJ	1.53	1.52	1.63
+AEO.2020	REF2020	USA	Price|Primary Energy|Gas	US$2018/GJ	2.3	3.1	3.26
+AEO.2020	REF2020	USA	Price|Primary Energy|Oil	US$2018/GJ	8.81	11.83	14.22
+AEO.2020	REF2020	USA	Primary Energy	EJ/yr	106.55	105.38	108.66
+AEO.2020	REF2020	USA	Primary Energy|Biomass	EJ/yr	3.28	3.48	3.58
+AEO.2020	REF2020	USA	Primary Energy|Coal	EJ/yr	10.78	8.96	8.51
+AEO.2020	REF2020	USA	Primary Energy|Fossil	EJ/yr	84.08	80.08	82.17
+AEO.2020	REF2020	USA	Primary Energy|Gas	EJ/yr	30.97	30.59	33.2
+AEO.2020	REF2020	USA	Primary Energy|Geothermal	EJ/yr	0.06	0.1	0.16
+AEO.2020	REF2020	USA	Primary Energy|Hydro	EJ/yr	2.77	2.5	2.43
+AEO.2020	REF2020	USA	Primary Energy|Nuclear	EJ/yr	8.75	7.51	7.11
+AEO.2020	REF2020	USA	Primary Energy|Oil	EJ/yr	40.39	38.87	38.77
+AEO.2020	REF2020	USA	Secondary Energy|Electricity	EJ/yr	14.85	16.12	17.55
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Biomass	EJ/yr	0.16	0.25	0.26
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Coal	EJ/yr	3.24	2.76	2.62
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Gas	EJ/yr	5.59	5.68	6.53
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Geothermal	EJ/yr	0.06	0.1	0.16
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Hydro	EJ/yr	1.05	1.04	1.04
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Nuclear	EJ/yr	2.86	2.45	2.32
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Oil	EJ/yr	0.06	0.03	0.03
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Solar	EJ/yr	0.34	1.32	1.76
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Solar|CSP	EJ/yr	0.01	0.01	0.01
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Solar|PV	EJ/yr	0.32	1.31	1.74
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Wind	EJ/yr	1.21	1.87	1.94
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Wind|Offshore	EJ/yr	0	0.13	0.27
+AEO.2020	REF2020	USA	Secondary Energy|Electricity|Wind|Onshore	EJ/yr	1.21	1.75	1.68
+AEO.2021	REF2021	USA	Capacity|Electricity	GW	1091.18	1293.49	1468.32
+AEO.2021	REF2021	USA	Capacity|Electricity|Biomass	GW	3	2.89	2.89
+AEO.2021	REF2021	USA	Capacity|Electricity|Coal	GW	219.21	119.71	107.22
+AEO.2021	REF2021	USA	Capacity|Electricity|Geothermal	GW	2.46	3.63	5.43
+AEO.2021	REF2021	USA	Capacity|Electricity|Hydro	GW	79.2	79.32	79.32
+AEO.2021	REF2021	USA	Capacity|Electricity|Nuclear	GW	97.12	76.87	72.45
+AEO.2021	REF2021	USA	Capacity|Electricity|Solar	GW	84.48	251.52	372.27
+AEO.2021	REF2021	USA	Capacity|Electricity|Solar|CSP	GW	1.76	1.76	1.76
+AEO.2021	REF2021	USA	Capacity|Electricity|Solar|PV	GW	48.48	175.41	253.78
+AEO.2021	REF2021	USA	Capacity|Electricity|Storage Capacity|PSH	GW	22.78	22.78	22.78
+AEO.2021	REF2021	USA	Capacity|Electricity|Wind	GW	127.1	210.09	228.5
+AEO.2021	REF2021	USA	Capacity|Electricity|Wind|Offshore	GW	0.03	9.98	23.38
+AEO.2021	REF2021	USA	Capacity|Electricity|Wind|Onshore	GW	127.07	200.1	205.11
+AEO.2021	REF2021	USA	Emissions|CO2|Energy	Mt CO2/yr	4562.53	4583.55	4595.75
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Coal	Mt CO2/yr	861.15	731.33	652.68
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings	Mt CO2/yr	557.83	570.88	564.95
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial	Mt CO2/yr	234.06	255.38	257.91
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial|Indirect	Mt CO2/yr	483.49	415.81	396.16
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings|Indirect	Mt CO2/yr	1053.98	885.6	851.98
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings|Residential	Mt CO2/yr	323.77	315.49	307.04
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Buildings|Residential|Indirect	Mt CO2/yr	570.48	469.79	455.82
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry	Mt CO2/yr	985.17	1108.14	1182.76
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Aluminum	Mt CO2/yr	14.44	13.7	13.29
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Bulk chemicals	Mt CO2/yr	274.06	298.62	320.49
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Cement and lime	Mt CO2/yr	22.22	16.13	12.03
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Food products	Mt CO2/yr	77.75	83.33	87.48
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Glass	Mt CO2/yr	12.12	10.47	9.89
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Iron and steel	Mt CO2/yr	89.6	77.63	67.86
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Paper	Mt CO2/yr	48.39	42.35	38.91
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|Indirect	Mt CO2/yr	374.86	331.07	314.58
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Agriculture	Mt CO2/yr	81.43	94.05	104.57
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Construction	Mt CO2/yr	73.45	84.34	94.15
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Other mining	Mt CO2/yr	81.46	79.14	76.3
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Transportation	Mt CO2/yr	1587.57	1680.23	1665.18
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Demand|Transportation|Indirect	Mt CO2/yr	3.12	7.64	16.3
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Gas	Mt CO2/yr	1675.21	1683.33	1774.25
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Oil	Mt CO2/yr	2015.74	2158.21	2157.78
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Supply|Electricity	Mt CO2/yr	1431.96	1224.31	1182.87
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Supply|Electricity|Coal	Mt CO2/yr	767.19	647.7	572.28
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Supply|Electricity|Gas	Mt CO2/yr	642.69	559.54	594.19
+AEO.2021	REF2021	USA	Emissions|CO2|Energy|Supply|Electricity|Oil	Mt CO2/yr	11.65	6.39	5.35
+AEO.2021	REF2021	USA	Final Energy	EJ/yr	73.48	80.12	82.93
+AEO.2021	REF2021	USA	Final Energy|Buildings	EJ/yr	39.53	39.52	40.54
+AEO.2021	REF2021	USA	Final Energy|Buildings|Commercial	EJ/yr	17.6	18.26	18.73
+AEO.2021	REF2021	USA	Final Energy|Buildings|Commercial|Electricity	EJ/yr	4.57	5.02	5.31
+AEO.2021	REF2021	USA	Final Energy|Buildings|Residential	EJ/yr	21.93	21.26	21.81
+AEO.2021	REF2021	USA	Final Energy|Buildings|Residential|Electricity	EJ/yr	5.33	5.55	5.99
+AEO.2021	REF2021	USA	Final Energy|Electricity	EJ/yr	13.18	14.38	15.47
+AEO.2021	REF2021	USA	Final Energy|Industry	EJ/yr	32.9	36.99	39.37
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Aluminum|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Aluminum|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Aluminum|Electricity	EJ/yr	0.07	0.08	0.08
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Aluminum|Gas	EJ/yr	0.11	0.11	0.12
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Aluminum|Oil	EJ/yr	0	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Biomass Solids	EJ/yr	0.08	0.05	0.04
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Coal	EJ/yr	0.16	0.11	0.07
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Electricity	EJ/yr	0.05	0.04	0.04
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Gas	EJ/yr	0.03	0.03	0.03
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Food products|Biomass Solids	EJ/yr	0.12	0.16	0.2
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Food products|Coal	EJ/yr	0.12	0.13	0.13
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Food products|Electricity	EJ/yr	0.25	0.31	0.36
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Food products|Gas	EJ/yr	0.73	0.85	0.91
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Food products|Oil	EJ/yr	0.03	0.02	0.02
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Glass|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Glass|Electricity	EJ/yr	0.04	0.05	0.05
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Glass|Gas	EJ/yr	0.15	0.13	0.12
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Glass|Oil	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Coal	EJ/yr	0.03	0.03	0.03
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Electricity	EJ/yr	0.19	0.2	0.2
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Gas	EJ/yr	0.43	0.39	0.28
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Oil	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Paper|Biomass Solids	EJ/yr	0.99	1.01	1.01
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Paper|Coal	EJ/yr	0.04	0.04	0.05
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Paper|Electricity	EJ/yr	0.16	0.15	0.13
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Paper|Gas	EJ/yr	0.53	0.5	0.47
+AEO.2021	REF2021	USA	Final Energy|Industry|EInt Mfg|Paper|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|Electricity	EJ/yr	3.24	3.71	3.93
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Agriculture|Biomass Solids	EJ/yr	0.12	0.15	0.17
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Agriculture|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Agriculture|Electricity	EJ/yr	0.26	0.33	0.39
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Agriculture|Gas	EJ/yr	0.21	0.23	0.26
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Agriculture|Oil	EJ/yr	0.62	0.81	0.93
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Construction|Electricity	EJ/yr	0.17	0.21	0.23
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Construction|Gas	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Construction|Oil	EJ/yr	0.79	0.97	1.11
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Other mining|Biomass Solids	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Other mining|Coal	EJ/yr	0.09	0.09	0.1
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Other mining|Electricity	EJ/yr	0.33	0.36	0.37
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Other mining|Gas	EJ/yr	2.43	2.7	2.88
+AEO.2021	REF2021	USA	Final Energy|Industry|Non Mfg|Other mining|Oil	EJ/yr	0.23	0.26	0.26
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Biomass Solids	EJ/yr	0.04	0.05	0.06
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Coal	EJ/yr	0.05	0.06	0.07
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Gas	EJ/yr	0.82	1	1.15
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Oil	EJ/yr	0.13	0.11	0.11
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Gas	EJ/yr	0.04	0.04	0.04
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Oil	EJ/yr	0.01	0.01	0.02
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Gas	EJ/yr	0.06	0.07	0.07
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Oil	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Gas	EJ/yr	0.22	0.23	0.24
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Gas	EJ/yr	0.08	0.08	0.08
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Gas	EJ/yr	0.17	0.17	0.19
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Biomass Solids	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Gas	EJ/yr	0.11	0.13	0.14
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Oil	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Biomass Solids	EJ/yr	0.26	0.29	0.3
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Coal	EJ/yr	0	0	0
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Gas	EJ/yr	0.07	0.07	0.07
+AEO.2021	REF2021	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Oil	EJ/yr	0.02	0.02	0.02
+AEO.2021	REF2021	USA	Final Energy|Transportation	EJ/yr	26.05	27.93	28.08
+AEO.2021	REF2021	USA	Final Energy|Transportation|Electricity	EJ/yr	0.04	0.1	0.24
+AEO.2021	REF2021	USA	GDP|Consumption	billion US$2018/yr	13124.71	17210.1	21889.57
+AEO.2021	REF2021	USA	GDP|Exports	billion US$2018/yr	2297.32	3749.9	4773.72
+AEO.2021	REF2021	USA	GDP|Government	billion US$2018/yr	3519.43	3690.08	3964.29
+AEO.2021	REF2021	USA	GDP|Imports	billion US$2018/yr	3099.33	4796.32	6875.5
+AEO.2021	REF2021	USA	GDP|Investment	billion US$2018/yr	2691.31	3827.31	5033.71
+AEO.2021	REF2021	USA	GDP|MER	billion US$2018/yr	18992.51	24341.19	29652.62
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Aluminum|Value	billion US$2018/yr	36.06	44.46	48.64
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Bulk chemicals|Value	billion US$2018/yr	444.29	532.06	587
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Cement and lime|Value	billion US$2018/yr	14.78	17.25	19.53
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Food products|Value	billion US$2018/yr	932.52	1176.57	1406.13
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Glass|Value	billion US$2018/yr	21.95	26.11	29.74
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Iron and steel|Value	billion US$2018/yr	113.34	116.33	118.68
+AEO.2021	REF2021	USA	Output|Industry|EInt Mfg|Paper|Value	billion US$2018/yr	175.82	187.26	190.78
+AEO.2021	REF2021	USA	Output|Industry|Non Mfg|Agriculture|Value	billion US$2018/yr	520.55	637.42	741.85
+AEO.2021	REF2021	USA	Output|Industry|Non Mfg|Construction|Value	billion US$2018/yr	1378.9	1605.75	1857.84
+AEO.2021	REF2021	USA	Output|Industry|Non Mfg|Other mining|Value	billion US$2018/yr	750.35	843.86	853.49
+AEO.2021	REF2021	USA	Output|Industry|NonEInt Mfg|Metal durables|Appliances|Value	billion US$2018/yr	126.61	147.8	171.47
+AEO.2021	REF2021	USA	Output|Industry|NonEInt Mfg|Metal durables|Machinery|Value	billion US$2018/yr	341.93	404.9	462.55
+AEO.2021	REF2021	USA	Output|Industry|NonEInt Mfg|Metal durables|Transport equip|Value	billion US$2018/yr	735.47	930.09	1158.04
+AEO.2021	REF2021	USA	Price|Final Energy|Commercial|Electricity	US$2018/GJ	30.3	29.74	28.66
+AEO.2021	REF2021	USA	Price|Final Energy|Commercial|Gas	US$2018/GJ	6.99	7.93	8.17
+AEO.2021	REF2021	USA	Price|Final Energy|Commercial|Oil	US$2018/GJ	17.24	19.55	21.38
+AEO.2021	REF2021	USA	Price|Final Energy|Electricity	US$2018/GJ	29.53	29.14	28.55
+AEO.2021	REF2021	USA	Price|Final Energy|Gas	US$2018/GJ	4.38	5.51	5.66
+AEO.2021	REF2021	USA	Price|Final Energy|Industrial|Electricity	US$2018/GJ	20.04	18.92	18.36
+AEO.2021	REF2021	USA	Price|Final Energy|Industrial|Gas	US$2018/GJ	2.96	4.06	4.22
+AEO.2021	REF2021	USA	Price|Final Energy|Industrial|Oil	US$2018/GJ	17.17	19.3	21.09
+AEO.2021	REF2021	USA	Price|Final Energy|Oil	US$2018/GJ	18.13	22.52	25.1
+AEO.2021	REF2021	USA	Price|Final Energy|Residential|Electricity	US$2018/GJ	34.6	35.34	34.96
+AEO.2021	REF2021	USA	Price|Final Energy|Residential|Gas	US$2018/GJ	9.81	10.63	11.07
+AEO.2021	REF2021	USA	Price|Final Energy|Residential|Oil	US$2018/GJ	16.73	20.61	23.37
+AEO.2021	REF2021	USA	Price|Final Energy|Transportation|Electricity	US$2018/GJ	33.7	33.7	33.4
+AEO.2021	REF2021	USA	Price|Final Energy|Transportation|Gas	US$2018/GJ	12.59	12.34	11.2
+AEO.2021	REF2021	USA	Price|Final Energy|Transportation|Oil|Diesel	US$2018/GJ	17.73	23.16	24.91
+AEO.2021	REF2021	USA	Price|Final Energy|Transportation|Oil|Gasoline	US$2018/GJ	18.14	22.51	25.09
+AEO.2021	REF2021	USA	Price|Final Energy|Transportation|Oil|Jet Fuel	US$2018/GJ	9.26	15.91	18.31
+AEO.2021	REF2021	USA	Price|Primary Energy|Coal	US$2018/GJ	1.62	1.4	1.5
+AEO.2021	REF2021	USA	Price|Primary Energy|Gas	US$2018/GJ	2	3.23	3.43
+AEO.2021	REF2021	USA	Price|Primary Energy|Oil	US$2018/GJ	6.58	11.98	14.3
+AEO.2021	REF2021	USA	Primary Energy	EJ/yr	98.83	104.41	107.92
+AEO.2021	REF2021	USA	Primary Energy|Biomass	EJ/yr	3.22	3.29	3.35
+AEO.2021	REF2021	USA	Primary Energy|Coal	EJ/yr	9.48	8.08	7.23
+AEO.2021	REF2021	USA	Primary Energy|Fossil	EJ/yr	77.14	78.8	80.18
+AEO.2021	REF2021	USA	Primary Energy|Gas	EJ/yr	30.56	30.19	31.79
+AEO.2021	REF2021	USA	Primary Energy|Geothermal	EJ/yr	0.06	0.09	0.14
+AEO.2021	REF2021	USA	Primary Energy|Hydro	EJ/yr	2.67	2.56	2.48
+AEO.2021	REF2021	USA	Primary Energy|Nuclear	EJ/yr	8.66	6.95	6.56
+AEO.2021	REF2021	USA	Primary Energy|Oil	EJ/yr	35.4	38.91	39.44
+AEO.2021	REF2021	USA	Secondary Energy|Electricity	EJ/yr	14.62	16.11	17.54
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Biomass	EJ/yr	0.15	0.19	0.23
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Coal	EJ/yr	2.79	2.5	2.23
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Gas	EJ/yr	5.89	5.62	6.14
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Geothermal	EJ/yr	0.06	0.09	0.14
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Hydro	EJ/yr	1.01	1.06	1.06
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Nuclear	EJ/yr	2.83	2.27	2.14
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Oil	EJ/yr	0.06	0.03	0.03
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Solar	EJ/yr	0.31	1.42	2.15
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Solar|CSP	EJ/yr	0.01	0.01	0.01
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Solar|PV	EJ/yr	0.29	1.41	2.14
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Wind	EJ/yr	1.23	2.29	2.35
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Wind|Offshore	EJ/yr	0	0.13	0.34
+AEO.2021	REF2021	USA	Secondary Energy|Electricity|Wind|Onshore	EJ/yr	1.23	2.17	2.01
+AEO.2022	REF2022	USA	Capacity|Electricity	GW	NA	1341.39	1566.42
+AEO.2022	REF2022	USA	Capacity|Electricity|Biomass	GW	NA	2.66	2.66
+AEO.2022	REF2022	USA	Capacity|Electricity|Coal	GW	NA	122.84	106.97
+AEO.2022	REF2022	USA	Capacity|Electricity|Geothermal	GW	NA	3.47	5.42
+AEO.2022	REF2022	USA	Capacity|Electricity|Hydro	GW	NA	79.34	79.38
+AEO.2022	REF2022	USA	Capacity|Electricity|Nuclear	GW	NA	86.04	81.02
+AEO.2022	REF2022	USA	Capacity|Electricity|Solar	GW	NA	286.99	432.21
+AEO.2022	REF2022	USA	Capacity|Electricity|Solar|CSP	GW	NA	1.48	1.48
+AEO.2022	REF2022	USA	Capacity|Electricity|Solar|PV	GW	NA	210.68	313.45
+AEO.2022	REF2022	USA	Capacity|Electricity|Storage Capacity|PSH	GW	NA	23.02	23.02
+AEO.2022	REF2022	USA	Capacity|Electricity|Wind	GW	NA	187.78	210.63
+AEO.2022	REF2022	USA	Capacity|Electricity|Wind|Offshore	GW	NA	9.96	23.36
+AEO.2022	REF2022	USA	Capacity|Electricity|Wind|Onshore	GW	NA	177.82	187.27
+AEO.2022	REF2022	USA	Emissions|CO2|Energy	Mt CO2/yr	NA	4621.77	4560.68
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Coal	Mt CO2/yr	NA	752.66	637.85
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings	Mt CO2/yr	NA	573.16	566.08
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial	Mt CO2/yr	NA	252.76	255.3
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial|Indirect	Mt CO2/yr	NA	397.58	357.21
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings|Indirect	Mt CO2/yr	NA	865.04	783.79
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings|Residential	Mt CO2/yr	NA	320.4	310.78
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Buildings|Residential|Indirect	Mt CO2/yr	NA	467.46	426.58
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry	Mt CO2/yr	NA	1055.82	1113.87
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Aluminum	Mt CO2/yr	NA	15.23	13.71
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Bulk chemicals	Mt CO2/yr	NA	298.42	328.11
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Cement and lime	Mt CO2/yr	NA	31.21	29.04
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Food products	Mt CO2/yr	NA	76.56	70.57
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Glass	Mt CO2/yr	NA	9.21	8.43
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Iron and steel	Mt CO2/yr	NA	85.36	80.64
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|EInt Mfg|Paper	Mt CO2/yr	NA	52.54	46.18
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|Indirect	Mt CO2/yr	NA	335.91	307.14
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Agriculture	Mt CO2/yr	NA	68.87	70.29
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Construction	Mt CO2/yr	NA	86.77	91.08
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Industry|Non Mfg|Other mining	Mt CO2/yr	NA	71.33	66.77
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Transportation	Mt CO2/yr	NA	1778.55	1767.52
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Demand|Transportation|Indirect	Mt CO2/yr	NA	13.3	22.27
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Gas	Mt CO2/yr	NA	1636.02	1690.74
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Oil	Mt CO2/yr	NA	2222.09	2220.69
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Supply|Electricity	Mt CO2/yr	NA	1214.24	1113.2
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Supply|Electricity|Coal	Mt CO2/yr	NA	656.8	540.38
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Supply|Electricity|Gas	Mt CO2/yr	NA	540.03	556.21
+AEO.2022	REF2022	USA	Emissions|CO2|Energy|Supply|Electricity|Oil	Mt CO2/yr	NA	6.41	5.22
+AEO.2022	REF2022	USA	Final Energy	EJ/yr	NA	81.21	83.75
+AEO.2022	REF2022	USA	Final Energy|Buildings	EJ/yr	NA	39.46	39.98
+AEO.2022	REF2022	USA	Final Energy|Buildings|Commercial	EJ/yr	NA	17.81	18.07
+AEO.2022	REF2022	USA	Final Energy|Buildings|Commercial|Electricity	EJ/yr	NA	4.85	5.09
+AEO.2022	REF2022	USA	Final Energy|Buildings|Residential	EJ/yr	NA	21.65	21.91
+AEO.2022	REF2022	USA	Final Energy|Buildings|Residential|Electricity	EJ/yr	NA	5.63	6.02
+AEO.2022	REF2022	USA	Final Energy|Electricity	EJ/yr	NA	14.51	15.54
+AEO.2022	REF2022	USA	Final Energy|Industry	EJ/yr	NA	36.91	38.93
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Aluminum|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Aluminum|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Aluminum|Electricity	EJ/yr	NA	0.11	0.1
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Aluminum|Gas	EJ/yr	NA	0.12	0.12
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Aluminum|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Biomass Solids	EJ/yr	NA	0.08	0.08
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Coal	EJ/yr	NA	0.19	0.19
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Electricity	EJ/yr	NA	0.05	0.05
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Gas	EJ/yr	NA	0.1	0.08
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Cement and lime|Oil	EJ/yr	NA	0.04	0.04
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Food products|Biomass Solids	EJ/yr	NA	0.05	0.06
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Food products|Coal	EJ/yr	NA	0.13	0.13
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Food products|Electricity	EJ/yr	NA	0.32	0.34
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Food products|Gas	EJ/yr	NA	0.71	0.64
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Food products|Oil	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Glass|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Glass|Electricity	EJ/yr	NA	0.05	0.05
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Glass|Gas	EJ/yr	NA	0.1	0.09
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Glass|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Coal	EJ/yr	NA	0.04	0.03
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Electricity	EJ/yr	NA	0.24	0.23
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Gas	EJ/yr	NA	0.33	0.32
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Iron and steel|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Paper|Biomass Solids	EJ/yr	NA	1.13	1.15
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Paper|Coal	EJ/yr	NA	0.05	0.04
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Paper|Electricity	EJ/yr	NA	0.21	0.2
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Paper|Gas	EJ/yr	NA	0.55	0.49
+AEO.2022	REF2022	USA	Final Energy|Industry|EInt Mfg|Paper|Oil	EJ/yr	NA	0.03	0.05
+AEO.2022	REF2022	USA	Final Energy|Industry|Electricity	EJ/yr	NA	3.85	4.08
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Agriculture|Biomass Solids	EJ/yr	NA	0.16	0.17
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Agriculture|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Agriculture|Electricity	EJ/yr	NA	0.23	0.25
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Agriculture|Gas	EJ/yr	NA	0.11	0.1
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Agriculture|Oil	EJ/yr	NA	0.67	0.72
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Construction|Electricity	EJ/yr	NA	0.3	0.35
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Construction|Gas	EJ/yr	NA	0.23	0.21
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Construction|Oil	EJ/yr	NA	0.76	0.85
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Other mining|Biomass Solids	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Other mining|Coal	EJ/yr	NA	0.03	0.03
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Other mining|Electricity	EJ/yr	NA	0.25	0.25
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Other mining|Gas	EJ/yr	NA	2.82	2.93
+AEO.2022	REF2022	USA	Final Energy|Industry|Non Mfg|Other mining|Oil	EJ/yr	NA	0.33	0.33
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Biomass Solids	EJ/yr	NA	0.03	0.03
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Coal	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Gas	EJ/yr	NA	0.85	0.94
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Balance of manufacturing|Oil	EJ/yr	NA	0.11	0.12
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Gas	EJ/yr	NA	0.04	0.04
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Appliances|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Gas	EJ/yr	NA	0.04	0.04
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Computer|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Gas	EJ/yr	NA	0.13	0.15
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Fab metal|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Gas	EJ/yr	NA	0.07	0.08
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Machinery|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Gas	EJ/yr	NA	0.19	0.21
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Metal durables|Transport equip|Oil	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Biomass Solids	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Gas	EJ/yr	NA	0.1	0.11
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Plastic & rubber|Oil	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Biomass Solids	EJ/yr	NA	0.33	0.36
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Coal	EJ/yr	NA	0	0
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Gas	EJ/yr	NA	0.06	0.06
+AEO.2022	REF2022	USA	Final Energy|Industry|NonEInt Mfg|Wood Products|Oil	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Final Energy|Transportation	EJ/yr	NA	29.32	29.68
+AEO.2022	REF2022	USA	Final Energy|Transportation|Electricity	EJ/yr	NA	0.18	0.34
+AEO.2022	REF2022	USA	GDP|Consumption	billion US$2018/yr	NA	18449.41	23719.61
+AEO.2022	REF2022	USA	GDP|Exports	billion US$2018/yr	NA	3659.46	4824.84
+AEO.2022	REF2022	USA	GDP|Government	billion US$2018/yr	NA	3842.73	4057.99
+AEO.2022	REF2022	USA	GDP|Imports	billion US$2018/yr	NA	5346.99	7484.27
+AEO.2022	REF2022	USA	GDP|Investment	billion US$2018/yr	NA	4188.69	5475.79
+AEO.2022	REF2022	USA	GDP|MER	billion US$2018/yr	NA	25664.59	31496.7
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Aluminum|Value	billion US$2018/yr	NA	49.79	53.89
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Bulk chemicals|Value	billion US$2018/yr	NA	569.63	656.49
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Cement and lime|Value	billion US$2018/yr	NA	17.6	19.68
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Food products|Value	billion US$2018/yr	NA	1091.82	1189.1
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Glass|Value	billion US$2018/yr	NA	26.29	29.38
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Iron and steel|Value	billion US$2018/yr	NA	137.68	140.17
+AEO.2022	REF2022	USA	Output|Industry|EInt Mfg|Paper|Value	billion US$2018/yr	NA	190.82	197.34
+AEO.2022	REF2022	USA	Output|Industry|Non Mfg|Agriculture|Value	billion US$2018/yr	NA	629.29	686.31
+AEO.2022	REF2022	USA	Output|Industry|Non Mfg|Construction|Value	billion US$2018/yr	NA	1579.16	1810.72
+AEO.2022	REF2022	USA	Output|Industry|Non Mfg|Other mining|Value	billion US$2018/yr	NA	764.31	772.48
+AEO.2022	REF2022	USA	Output|Industry|NonEInt Mfg|Metal durables|Appliances|Value	billion US$2018/yr	NA	173.77	219.66
+AEO.2022	REF2022	USA	Output|Industry|NonEInt Mfg|Metal durables|Machinery|Value	billion US$2018/yr	NA	485.17	580.65
+AEO.2022	REF2022	USA	Output|Industry|NonEInt Mfg|Metal durables|Transport equip|Value	billion US$2018/yr	NA	1357.55	1568.41
+AEO.2022	REF2022	USA	Price|Final Energy|Commercial|Electricity	US$2018/GJ	NA	27.25	26.73
+AEO.2022	REF2022	USA	Price|Final Energy|Commercial|Gas	US$2018/GJ	NA	7.32	7.74
+AEO.2022	REF2022	USA	Price|Final Energy|Commercial|Oil	US$2018/GJ	NA	17.25	18.78
+AEO.2022	REF2022	USA	Price|Final Energy|Electricity	US$2018/GJ	NA	26.96	26.83
+AEO.2022	REF2022	USA	Price|Final Energy|Gas	US$2018/GJ	NA	5.13	5.34
+AEO.2022	REF2022	USA	Price|Final Energy|Industrial|Electricity	US$2018/GJ	NA	17.24	16.86
+AEO.2022	REF2022	USA	Price|Final Energy|Industrial|Gas	US$2018/GJ	NA	3.87	4.02
+AEO.2022	REF2022	USA	Price|Final Energy|Industrial|Oil	US$2018/GJ	NA	17.2	18.47
+AEO.2022	REF2022	USA	Price|Final Energy|Oil	US$2018/GJ	NA	20.3	22.29
+AEO.2022	REF2022	USA	Price|Final Energy|Residential|Electricity	US$2018/GJ	NA	33.17	33.41
+AEO.2022	REF2022	USA	Price|Final Energy|Residential|Gas	US$2018/GJ	NA	9.51	10.15
+AEO.2022	REF2022	USA	Price|Final Energy|Residential|Oil	US$2018/GJ	NA	21.72	24.61
+AEO.2022	REF2022	USA	Price|Final Energy|Transportation|Electricity	US$2018/GJ	NA	32.76	31.76
+AEO.2022	REF2022	USA	Price|Final Energy|Transportation|Gas	US$2018/GJ	NA	10.49	10.24
+AEO.2022	REF2022	USA	Price|Final Energy|Transportation|Oil|Diesel	US$2018/GJ	NA	20.11	21.67
+AEO.2022	REF2022	USA	Price|Final Energy|Transportation|Oil|Gasoline	US$2018/GJ	NA	20.29	22.29
+AEO.2022	REF2022	USA	Price|Final Energy|Transportation|Oil|Jet Fuel	US$2018/GJ	NA	14.29	16.02
+AEO.2022	REF2022	USA	Price|Primary Energy|Coal	US$2018/GJ	NA	1.31	1.38
+AEO.2022	REF2022	USA	Price|Primary Energy|Gas	US$2018/GJ	NA	3.02	3.24
+AEO.2022	REF2022	USA	Price|Primary Energy|Oil	US$2018/GJ	NA	10.91	12.36
+AEO.2022	REF2022	USA	Primary Energy	EJ/yr	NA	105.87	108.78
+AEO.2022	REF2022	USA	Primary Energy|Biomass	EJ/yr	NA	3.35	3.43
+AEO.2022	REF2022	USA	Primary Energy|Coal	EJ/yr	NA	8.37	7.09
+AEO.2022	REF2022	USA	Primary Energy|Fossil	EJ/yr	NA	79.4	79.85
+AEO.2022	REF2022	USA	Primary Energy|Gas	EJ/yr	NA	29.87	30.81
+AEO.2022	REF2022	USA	Primary Energy|Geothermal	EJ/yr	NA	0.08	0.14
+AEO.2022	REF2022	USA	Primary Energy|Hydro	EJ/yr	NA	2.6	2.48
+AEO.2022	REF2022	USA	Primary Energy|Nuclear	EJ/yr	NA	7.79	7.33
+AEO.2022	REF2022	USA	Primary Energy|Oil	EJ/yr	NA	39.91	40.48
+AEO.2022	REF2022	USA	Secondary Energy|Electricity	EJ/yr	NA	16.27	17.65
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Biomass	EJ/yr	NA	0.17	0.22
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Coal	EJ/yr	NA	2.46	2.03
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Gas	EJ/yr	NA	5.55	5.9
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Geothermal	EJ/yr	NA	0.08	0.14
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Hydro	EJ/yr	NA	1.08	1.07
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Nuclear	EJ/yr	NA	2.55	2.4
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Oil	EJ/yr	NA	0.03	0.03
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Solar	EJ/yr	NA	1.67	2.64
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Solar|CSP	EJ/yr	NA	0.01	0.01
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Solar|PV	EJ/yr	NA	1.66	2.63
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Wind	EJ/yr	NA	2.01	2.1
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Wind|Offshore	EJ/yr	NA	0.13	0.34
+AEO.2022	REF2022	USA	Secondary Energy|Electricity|Wind|Onshore	EJ/yr	NA	1.88	1.76
+EIA_Historic	Historic	USA	Capacity|Electricity	GW	1143.27	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Biomass	GW	16.03	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Geothermal	GW	2.57	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Hydro	GW	79.92	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Nuclear	GW	96.5	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Solar	GW	75.64	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Storage Capacity|PSH	GW	23.02	NA	NA
+EIA_Historic	Historic	USA	Capacity|Electricity|Wind	GW	118.38	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Coal	Mt CO2/yr	NA	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings	Mt CO2/yr	551.66	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial	Mt CO2/yr	233.09	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings|Commercial|Indirect	Mt CO2/yr	501.59	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings|Indirect	Mt CO2/yr	1072.2	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings|Residential	Mt CO2/yr	318.56	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Buildings|Residential|Indirect	Mt CO2/yr	570.61	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Industry	Mt CO2/yr	947.12	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Industry|Indirect	Mt CO2/yr	373.66	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Transportation	Mt CO2/yr	1629.38	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Demand|Transportation|Indirect	Mt CO2/yr	2.55	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Gas	Mt CO2/yr	NA	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Oil	Mt CO2/yr	NA	NA	NA
+EIA_Historic	Historic	USA	Emissions|CO2|Energy|Supply|Electricity	Mt CO2/yr	NA	NA	NA
+EIA_Historic	Historic	USA	Final Energy	EJ/yr	97.97	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Buildings	EJ/yr	39.36	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Buildings|Commercial	EJ/yr	17.67	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Buildings|Commercial|Electricity	EJ/yr	5.27	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Buildings|Residential	EJ/yr	21.68	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Buildings|Residential|Electricity	EJ/yr	5.27	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Electricity	EJ/yr	14.03	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Industry	EJ/yr	32.95	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Industry|Electricity	EJ/yr	3.45	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Transportation	EJ/yr	25.79	NA	NA
+EIA_Historic	Historic	USA	Final Energy|Transportation|Electricity	EJ/yr	0.02	NA	NA
+EIA_Historic	Historic	USA	Primary Energy	EJ/yr	83.1	NA	NA
+EIA_Historic	Historic	USA	Primary Energy|Coal	EJ/yr	NA	NA	NA
+EIA_Historic	Historic	USA	Primary Energy|Geothermal	EJ/yr	0.21	NA	NA
+EIA_Historic	Historic	USA	Primary Energy|Oil	EJ/yr	35.49	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity	EJ/yr	14.44	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Biomass	EJ/yr	0.2	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Coal	EJ/yr	2.78	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Gas	EJ/yr	5.86	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Geothermal	EJ/yr	0.06	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Hydro	EJ/yr	1.03	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Nuclear	EJ/yr	2.84	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Oil	EJ/yr	0.06	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Solar	EJ/yr	0.47	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Solar|CSP	EJ/yr	0.01	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Solar|PV	EJ/yr	0.46	NA	NA
+EIA_Historic	Historic	USA	Secondary Energy|Electricity|Wind	EJ/yr	1.22	NA	NA
+EIA_STEO	Ref	USA	Emissions|CO2|Energy	Mt CO2/yr	4576.57	NA	NA
+EIA_STEO	Ref	USA	Emissions|CO2|Energy|Coal	Mt CO2/yr	874.85	NA	NA
+EIA_STEO	Ref	USA	Emissions|CO2|Energy|Gas	Mt CO2/yr	1647.88	NA	NA
+EIA_STEO	Ref	USA	Emissions|CO2|Energy|Oil	Mt CO2/yr	2042.86	NA	NA
+EIA_STEO	Ref	USA	Final Energy|Electricity	EJ/yr	13.88	NA	NA
+EIA_STEO	Ref	USA	GDP|Consumption	billion US$2018/yr	13200.61	NA	NA
+EIA_STEO	Ref	USA	GDP|Exports	billion US$2018/yr	2307.33	NA	NA
+EIA_STEO	Ref	USA	GDP|Government	billion US$2018/yr	3512.02	NA	NA
+EIA_STEO	Ref	USA	GDP|Imports	billion US$2018/yr	3292.61	NA	NA
+EIA_STEO	Ref	USA	GDP|Investment	billion US$2018/yr	3479.88	NA	NA
+EIA_STEO	Ref	USA	Price|Final Energy|Electricity	US$2018/GJ	29.41	NA	NA
+EIA_STEO	Ref	USA	Price|Primary Energy|Coal	US$2018/GJ	1.82	NA	NA
+EIA_STEO	Ref	USA	Price|Primary Energy|Gas	US$2018/GJ	2.27	NA	NA
+EIA_STEO	Ref	USA	Price|Primary Energy|Oil	US$2018/GJ	10.33	NA	NA
+EIA_STEO	Ref	USA	Primary Energy	EJ/yr	98.09	NA	NA
+EIA_STEO	Ref	USA	Primary Energy|Coal	EJ/yr	9.49	NA	NA
+EIA_STEO	Ref	USA	Primary Energy|Gas	EJ/yr	33.25	NA	NA
+EIA_STEO	Ref	USA	Primary Energy|Geothermal	EJ/yr	0.21	NA	NA
+EIA_STEO	Ref	USA	Primary Energy|Hydro	EJ/yr	2.64	NA	NA
+EIA_STEO	Ref	USA	Primary Energy|Oil	EJ/yr	39.9	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity	EJ/yr	14.43	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Biomass	EJ/yr	0.2	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Coal	EJ/yr	2.78	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Gas	EJ/yr	5.85	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Geothermal	EJ/yr	0.06	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Hydro	EJ/yr	1.03	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Nuclear	EJ/yr	2.84	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Oil	EJ/yr	0.06	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Solar	EJ/yr	0.32	NA	NA
+EIA_STEO	Ref	USA	Secondary Energy|Electricity|Wind	EJ/yr	1.22	NA	NA

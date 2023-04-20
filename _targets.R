@@ -1,6 +1,10 @@
 library(targets)
 library(tarchetypes)
 
+# https://github.com/jameelalsalam/eia2
+# devtools::install_github("jameelalsalam/eia2)
+# library(eia2)
+
 ## Load your packages, e.g. library(targets).
 source("packages.R")
 

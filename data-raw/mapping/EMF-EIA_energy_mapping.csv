@@ -1,8 +1,0 @@
-EMF_category,EMF_energy_category,EIA_energy_code,EIA_prefix,EIA_suffix,Notes
-Energy,Coal,STC,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Gas,NG,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Electricity,PRC,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Oil,PET,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Biomass Solids,REB,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,Allocating Renewables to Biomass Solids
-Emissions,,,EMI_CO2_IDAL_,_NA_NA_NA_METNCO2.A,
-Output,,,ECI_VOS_IDAL_,_NA_NA_NA_BLNY09DLR.A,

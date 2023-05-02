@@ -1,8 +1,0 @@
-EMF_category,EMF_subcategory,EIA_energy_code,EIA_category_name,EIA_prefix,EIA_suffix,notes_var_map
-Energy,Coal,STC,Steam Coal,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Gas,NG,Natural Gas,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Electricity,PRC,Purchased Electricity,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Oil,PET,Petroleum Subtotal,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,
-Energy,Biomass Solids,REB,Renewables,CNSM_NA_IDAL_,_NA_NA_TRLBTU.A,Allocating Renewables to Biomass Solids
-Emissions,Emissions,,Carbon Dioxide Emissions,EMI_CO2_IDAL_,NA_NA_NA_METNCO2.A,Inclusive of BOTH direct and indirect emissions
-Output,Output,,Value of Shipments,ECI_VOS_IDAL_,NA_NA_NA_BLNY09DLR.A,
